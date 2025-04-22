@@ -1,10 +1,28 @@
-# Ignore virtual environment
+# 💡 Python-specific ignores
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# 📁 Jupyter & notebook-related
+.ipynb_checkpoints/
+
+# 📦 Virtual environments
+env/
+venv/
 lunar_env/
 
-# Python artifacts
-__pycache__/
-*.pyc
-
-# VSCode settings (optional)
+# 🔧 VS Code and other IDEs
 .vscode/
-settings.json
+.idea/
+
+# 📂 Output folders
+results/
+*.log
+
+# 📷 Videos/GIFs
+*.mp4
+*.gif
