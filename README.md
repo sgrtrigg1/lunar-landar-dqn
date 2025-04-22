@@ -10,4 +10,9 @@ Here’s how the trained DQN agent lands the Lunar Lander after learning from 10
 
 Reward over time and training loss per episode:
 
-*(Add your reward and loss plots here as images if saved, or describe them briefly)*  
+### 🚀 Reward Curve
+![Reward Curve](results/plots/reward_curve.png)
+
+### 📉 Loss Curve
+![Loss Curve](results/plots/loss_curve.png)
+
