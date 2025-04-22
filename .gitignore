@@ -1,7 +1,10 @@
-venv/
+# Ignore virtual environment
+lunar_env/
+
+# Python artifacts
 __pycache__/
-.ipynb_checkpoints/
 *.pyc
-*.pyo
-*.pyd
-.DS_Store
+
+# VSCode settings (optional)
+.vscode/
+settings.json
