@@ -16,5 +16,3 @@ The agent was trained on the LunarLander-v3 environment using Deep Q-Learning. B
 ### 📉 Average Loss per Episode
 ![Loss Curve](results/plots/loss_curve.png)
 
-![Loss Curve](results/plots/loss_curve.png)
-
