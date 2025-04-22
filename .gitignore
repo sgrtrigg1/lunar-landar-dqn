@@ -20,8 +20,15 @@ lunar_env/
 .idea/
 
 # 📂 Output folders
-results/
+results/*
 *.log
+
+# Allow tracking specific result files
+!results/models/
+!results/models/dqn_agent.pth
+!results/plots/
+!results/plots/reward_curve.png
+!results/plots/loss_curve.png
 
 # 📷 Videos/GIFs
 *.mp4
