@@ -1,7 +1,7 @@
-venv/                 # Your local virtual environment
-__pycache__/          # Python's cache folders
-*.pyc *.pyo *.pyd     # Compiled Python files (cross-platform)
-.ipynb_checkpoints/   # Jupyter autosaves
-.DS_Store             # macOS system file (harmless but annoying)
-.env                  # If using environment variables (e.g., API keys)
-*.pth                 # Model files or dependency paths
+venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
