@@ -6,13 +6,15 @@ Here’s how the trained DQN agent lands the Lunar Lander after learning from 10
 
 ![Best Landing](results/videos/best_landing.gif)
 
-## 📈 Training Progress
+## 📊 Training Performance
 
-Reward over time and training loss per episode:
+The agent was trained on the LunarLander-v3 environment using Deep Q-Learning. Below are the training performance plots:
 
-### 🚀 Reward Curve
+### 🚀 Reward per Episode
 ![Reward Curve](results/plots/reward_curve.png)
 
-### 📉 Loss Curve
+### 📉 Average Loss per Episode
+![Loss Curve](results/plots/loss_curve.png)
+
 ![Loss Curve](results/plots/loss_curve.png)
 
