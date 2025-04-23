@@ -19,15 +19,6 @@ lunar_env/
 .vscode/
 .idea/
 
-# 📂 Output folders
-# Ignore everything in results
-results/*
-
-# EXCEPT these:
-!results/plots/
-!results/plots/*.png
-
-
-# 📷 Videos/GIFs
-*.mp4
-*.gif
+# 📜 Miscellaneous
+__pycache__/
+.vscode/
